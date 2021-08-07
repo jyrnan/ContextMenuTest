@@ -13,6 +13,7 @@
 		D2E5F25E26BE31FA0081EC58 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2E5F25D26BE31FA0081EC58 /* Preview Assets.xcassets */; };
 		D2E5F26826BE31FA0081EC58 /* ContextMenuTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E5F26726BE31FA0081EC58 /* ContextMenuTestTests.swift */; };
 		D2E5F27226BE31FA0081EC58 /* ContextMenuTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E5F27126BE31FA0081EC58 /* ContextMenuTestUITests.swift */; };
+		D2E5F27F26BE32250081EC58 /* RowModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2E5F27E26BE32250081EC58 /* RowModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		D2E5F26726BE31FA0081EC58 /* ContextMenuTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuTestTests.swift; sourceTree = "<group>"; };
 		D2E5F26D26BE31FA0081EC58 /* ContextMenuTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ContextMenuTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2E5F27126BE31FA0081EC58 /* ContextMenuTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuTestUITests.swift; sourceTree = "<group>"; };
+		D2E5F27E26BE32250081EC58 /* RowModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 			children = (
 				D2E5F25626BE31F80081EC58 /* ContextMenuTestApp.swift */,
 				D2E5F25826BE31F80081EC58 /* ContentView.swift */,
+				D2E5F27E26BE32250081EC58 /* RowModel.swift */,
 				D2E5F25A26BE31FA0081EC58 /* Assets.xcassets */,
 				D2E5F25C26BE31FA0081EC58 /* Preview Content */,
 			);
@@ -256,6 +259,7 @@
 			files = (
 				D2E5F25926BE31F80081EC58 /* ContentView.swift in Sources */,
 				D2E5F25726BE31F80081EC58 /* ContextMenuTestApp.swift in Sources */,
+				D2E5F27F26BE32250081EC58 /* RowModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
