@@ -51,3 +51,10 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+struct Test {
+    static var moring: Bool {
+        return true
+    }
+    
+}
